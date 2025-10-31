@@ -1,0 +1,33 @@
+{
+  "profile": {
+    "name": "Your Name",
+    "title": "Full-Stack Developer",
+    "bio": "Passionate developer with 10+ years experience in web technologies."
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Project 1",
+      "description": "A cool web app built with Vue.",
+      "link": "https://example.com/project1"
+    },
+    {
+      "id": 2,
+      "title": "Project 2",
+      "description": "Another awesome project.",
+      "link": "https://example.com/project2"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "Vue.js",
+      "level": "Expert"
+    },
+    {
+      "id": 2,
+      "name": "JavaScript",
+      "level": "Advanced"
+    }
+  ]
+}
